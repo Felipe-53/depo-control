@@ -1,6 +1,6 @@
 [submodule "backend--depo-control"]
 	path = backend--depo-control
-	url = ./backend--depo-control
+	url = https://github.com/Felipe-53/depo-control--backend.git
 [submodule "frontend--depo-control"]
 	path = frontend--depo-control
-	url = ./frontend--depo-control
+	url = https://github.com/Felipe-53/depo-control--frontend.git
