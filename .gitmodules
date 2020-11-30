@@ -1,0 +1,6 @@
+[submodule "backend--depo-control"]
+	path = backend--depo-control
+	url = ./backend--depo-control
+[submodule "frontend--depo-control"]
+	path = frontend--depo-control
+	url = ./frontend--depo-control
