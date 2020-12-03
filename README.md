@@ -1,5 +1,5 @@
 # depo-control
-O intuito desse projeto foi o de migrar a gestão do estoque de uma empresa do papel para o digital. A ideia consistiu em criar um aplicativo (PWA) onde movimentações nos depósitos pudessem ser convenientemente registradas e monitoradas.
+O intuito desse projeto foi o de migrar do papel para o digital a gestão do estoque de uma empresa de alimentação animal. A ideia consistiu em criar um aplicativo (PWA) onde movimentações nos depósitos pudessem ser convenientemente registradas e monitoradas.
 
 ## Demonstração Interativa
 No link abaixo você pode ver, testar e interagitr com a aplicação em tempo real. É interessante que um computador seja usado para esse fim, porque a página que segue simula a tela de dois celulares, lado a lado, que você pode usar para conferir como funciona a dinâmica do aplicatico.
